@@ -6,18 +6,21 @@
 
 name=$(whoami)
 
-echo Hello $name, how many lines would you like on your report?
+function getInput() {
 
-read number
-
-if ! [[ "$number" =~ ^[+-]?[0-9]+\.?[0-9]*$ ]]
-then 
-    echo "You must specify numbers only!" 
-    exit 0 
-fi
+    echo Hello $name, how many lines would you like on your report?
+    read number
+    
+    if ! [[ "$number" =~ ^[+-]?[0-9]+\.?[0-9]*$ ]]
+    then 
+        echo "You must specify numbers only!" 
+        exit 0 
+    fi
+}
 
 function showLoginHistory() {
     last | head -n $1
 }
+getInput
 
 showLoginHistory $number
