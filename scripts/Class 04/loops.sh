@@ -1,3 +1,5 @@
+#!/bin/bash
+
 servers=$(cat ./ServerList.txt)
 
 echo "Bellow are the servers to resolve DNS"
