@@ -18,5 +18,5 @@ Expect the unexpected, it's good to have a primary plan and backup plans.
 
 After applying the fix, test it and make sure that the fix solved the problem.
 
-Create preventative measures so that the problem doens't occur in the future. Document it in the knowledge base, so that if anyone else run across this particular issue they´ll know how to address it.
+Create preventative measures so that the problem doesn't occur in the future. Document it in the knowledge base, so that if anyone else run across this particular issue they´ll know how to address it.
 
