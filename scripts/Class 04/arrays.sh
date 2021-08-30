@@ -1,20 +1,20 @@
 #!/bin/bash
 
-directories=( [0]="./directories/dir1"
-        [1]="./directories/dir2"
-        [2]="./directories/dir3"
-        [3]="./directories/dir4"
-        [4]="./directories/dir5"
+paths=( [0]="./directories"
+        [1]="./directories/dir1"
+        [2]="./directories/dir2"
+        [3]="./directories/dir3"
+        [4]="./directories/dir4"
 )
 
-mkdir ${directories[0]}
-mkdir ${directories[1]}
-mkdir ${directories[2]}
-mkdir ${directories[3]}
-mkdir ${directories[4]}
+mkdir ${paths[0]}
+mkdir ${paths[1]}
+mkdir ${paths[2]}
+mkdir ${paths[3]}
+mkdir ${paths[4]}
 
 
-touch "${directories[1]}/file1.txt"
-touch "${directories[2]}/file1.txt"
-touch "${directories[3]}/file1.txt"
-touch "${directories[4]}/file1.txt"
+touch "${paths[1]}/file1.txt"
+touch "${paths[2]}/file1.txt"
+touch "${paths[3]}/file1.txt"
+touch "${paths[4]}/file1.txt"
