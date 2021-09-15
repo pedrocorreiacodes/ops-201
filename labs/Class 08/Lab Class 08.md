@@ -84,7 +84,7 @@ If you don't use OneDrive you don't need to see the “OneDrive” option in Fil
 
 ------
 
-![Screenshot 2021-09-15 at 13.22.08](/Users/baphomet/Library/Application Support/typora-user-images/Screenshot 2021-09-15 at 13.22.08.png)
+![Screenshot 2021-09-15 at 13.22.08](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2013.22.08.png)
 
 If you’re using a desktop PC or laptop, the lock screen is just another screen you have to press Space to bypass before typing your password. If you're looking for convinience when logging in you must try this.
 
