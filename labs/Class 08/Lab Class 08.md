@@ -6,7 +6,7 @@
 
 ------
 
-![Screenshot 2021-09-15 at 11.43.41](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 11.43.41.png)
+![Screenshot 2021-09-15 at 11.43.41](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2011.43.41.png)
 
 Registry files are stored in `C:\Windows\System32\config`.
 
@@ -16,7 +16,7 @@ Registry files are stored in `C:\Windows\System32\config`.
 
 ------
 
-![Screenshot 2021-09-15 at 11.46.43](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 11.46.43.png)
+![Screenshot 2021-09-15 at 11.46.43](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2011.46.43.png)
 
 
 
@@ -24,9 +24,9 @@ Registry files are stored in `C:\Windows\System32\config`.
 
 ------
 
-![Screenshot 2021-09-15 at 11.48.40](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 11.48.40.png)
+![Screenshot 2021-09-15 at 11.48.40](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2011.48.40.png)
 
-![Screenshot 2021-09-15 at 11.49.04](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 11.49.04.png)
+![Screenshot 2021-09-15 at 11.49.04](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2011.49.04.png)
 
 
 
@@ -34,7 +34,7 @@ Registry files are stored in `C:\Windows\System32\config`.
 
 ------
 
-![Screenshot 2021-09-15 at 11.58.13](/Users/baphomet/Library/Application Support/typora-user-images/Screenshot 2021-09-15 at 11.58.13.png)
+![Screenshot 2021-09-15 at 11.58.13](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2011.58.13.png)
 
 With this registry change clicking a taskbar button always opens the last active window, If you’re routinely switching between apps with open windows this will save you time.
 
@@ -44,7 +44,7 @@ With this registry change clicking a taskbar button always opens the last active
 
 ------
 
-![Screenshot 2021-09-15 at 12.05.17](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 12.05.17.png)
+![Screenshot 2021-09-15 at 12.05.17](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2012.05.17.png)
 
 Allows you to really quick access to launch a frequently used application.
 
@@ -54,7 +54,7 @@ Allows you to really quick access to launch a frequently used application.
 
 ------
 
-![Screenshot 2021-09-15 at 12.39.10](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 12.39.10.png)
+![Screenshot 2021-09-15 at 12.39.10](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2012.39.10.png)
 
 When you want access to precise time.
 
@@ -64,7 +64,7 @@ When you want access to precise time.
 
 ------
 
-![Screenshot 2021-09-15 at 13.02.42](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 13.02.42.png)
+![Screenshot 2021-09-15 at 13.02.42](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2013.02.42.png)
 
 Not everyone will work with  “3D Objects”, so this can clog your workspace.
 
@@ -74,7 +74,7 @@ Not everyone will work with  “3D Objects”, so this can clog your workspace.
 
 ------
 
-![Screenshot 2021-09-15 at 13.11.11](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 13.11.11.png)
+![Screenshot 2021-09-15 at 13.11.11](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2013.11.11.png)
 
 If you don't use OneDrive you don't need to see the “OneDrive” option in File Explorer’s sidebar.
 
@@ -94,7 +94,7 @@ If you’re using a desktop PC or laptop, the lock screen is just another screen
 
 ------
 
-![Screenshot 2021-09-15 at 13.35.01](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 13.35.01.png)
+![Screenshot 2021-09-15 at 13.35.01](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2013.35.01.png)
 
 Because users don't want to search and use Bing everytime.
 
@@ -104,7 +104,7 @@ Because users don't want to search and use Bing everytime.
 
 ------
 
-![Screenshot 2021-09-15 at 13.40.53](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 13.40.53.png)
+![Screenshot 2021-09-15 at 13.40.53](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2013.40.53.png)
 
 Users might not want to use Cortana so there should be a option to remove it from the taskbar tool.
 
@@ -114,7 +114,7 @@ Users might not want to use Cortana so there should be a option to remove it fro
 
 ------
 
-![Screenshot 2021-09-15 at 13.46.07](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 13.46.07.png)
+![Screenshot 2021-09-15 at 13.46.07](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2013.46.07.png)
 
 To prevent accidentally triggering this feature by "shaking" a window.
 
@@ -124,7 +124,7 @@ To prevent accidentally triggering this feature by "shaking" a window.
 
 ------
 
-![Screenshot 2021-09-15 at 14.01.18](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 14.01.18.png)
+![Screenshot 2021-09-15 at 14.01.18](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2014.01.18.png)
 
 To use an app that performs better or to allow the user to use a more familiar app to open photos.
 
@@ -138,7 +138,7 @@ To use an app that performs better or to allow the user to use a more familiar a
 
 ##### INVALID_DATA_ACCESS_TRAP (Error Code 0x00000004)
 
-![Screenshot 2021-09-15 at 14.32.48](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 14.32.48.png)
+![Screenshot 2021-09-15 at 14.32.48](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2014.32.48.png)
 
 - Stop code: 0x00000004.
 - What part of the computer caused the error: Corrupted device drivers, corruption in the Windows registry, driver conflict, broken hard disk, RAM corruption, etc.
@@ -149,7 +149,7 @@ To use an app that performs better or to allow the user to use a more familiar a
 
 ##### NMI_HARDWARE_FAILURE (Error Code 0x00000080)
 
-![Screenshot 2021-09-15 at 14.44.30](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 14.44.30.png)
+![Screenshot 2021-09-15 at 14.44.30](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2014.44.30.png)
 
 - Stop code: 0x80.
 - What part of the computer caused the error: Driver error or memory error.
@@ -159,7 +159,7 @@ To use an app that performs better or to allow the user to use a more familiar a
 
 ##### NTFS_FILE_SYSTEM (Error Code 0x00000024)
 
-![Screenshot 2021-09-15 at 14.50.36](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 14.50.36.png)
+![Screenshot 2021-09-15 at 14.50.36](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2014.50.36.png)
 
 - Stop code: 0x00000024.
 - What part of the computer caused the error: Hard drive.
@@ -169,7 +169,7 @@ To use an app that performs better or to allow the user to use a more familiar a
 
 ##### THREAD_STUCK_IN_DEVICE_DRIVER (Error Code 0x000000EA)
 
-![Screenshot 2021-09-15 at 15.00.44](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.00.44.png)
+![Screenshot 2021-09-15 at 15.00.44](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.00.44.png)
 
 - Stop code :0x000000EA.
 - What part of the computer caused the error: Video card.
@@ -179,7 +179,7 @@ To use an app that performs better or to allow the user to use a more familiar a
 
 ##### MEMORY_MANAGEMENT (Error Code 0x0000001A)
 
-![Screenshot 2021-09-15 at 15.02.40](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.02.40.png)
+![Screenshot 2021-09-15 at 15.02.40](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.02.40.png)
 
 - Stop code :0x0000001A.
 - What part of the computer caused the error: Possibly RAM memory.
@@ -205,23 +205,23 @@ To use an app that performs better or to allow the user to use a more familiar a
 
 ------
 
-![Screenshot 2021-09-15 at 15.27.13](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.27.13.png)
+![Screenshot 2021-09-15 at 15.27.13](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.27.13.png)
 
 This **Critical** event happened because the system did not shut down properly.
 
-![Screenshot 2021-09-15 at 15.30.56](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.30.56.png)
+![Screenshot 2021-09-15 at 15.30.56](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.30.56.png)
 
 This **Error** event happened when Service Control Manager was terminated because o a system shutdown.
 
-![Screenshot 2021-09-15 at 15.36.10](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.36.10.png)
+![Screenshot 2021-09-15 at 15.36.10](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.36.10.png)
 
 **Warning** happend when the configured DNS servers didn't respond for the *wpad* name resolution.
 
-![Screenshot 2021-09-15 at 15.38.03](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.38.03.png)
+![Screenshot 2021-09-15 at 15.38.03](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.38.03.png)
 
 **Information** showing the `DHCPv6` service stopped.
 
-![Screenshot 2021-09-15 at 15.42.48](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.42.48.png)
+![Screenshot 2021-09-15 at 15.42.48](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.42.48.png)
 
 **Information** event, showing a **Audit Success** of a successfull account login.
 
@@ -231,7 +231,7 @@ This **Error** event happened when Service Control Manager was terminated becaus
 
 ------
 
-![Screenshot 2021-09-15 at 15.46.07](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 08/Screenshot 2021-09-15 at 15.46.07.png)
+![Screenshot 2021-09-15 at 15.46.07](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-15%20at%2015.46.07.png)
 
 FIltering by event number allows us to correlate different events, for example to check errors thrown by the same event.
 
