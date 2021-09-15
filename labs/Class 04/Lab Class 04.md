@@ -1,4 +1,4 @@
-## Lab: Class 04
+### Lab: Class 04
 
 ### Ticket 1: Michelle’s Audacity
 
