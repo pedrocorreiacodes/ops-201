@@ -26,7 +26,7 @@ According to *So, You Want to Write an SOP? by Doug Tedder*  there is no right o
 - **Consumable.** Using a template or predefined format makes the content easy to read.
 - **Understandable.** To be effective, SOPs must be focused and to the point, using relevant, but simple terms.
 - ***Actionable.** SOPs must clearly and succinctly describe what is to be done.
-- ***Measurable.** The activities described within an SOP must be specific and measurable.
+- ***Measurable.** The activities describecd d within an SOP must be specific and measurable.
 
 Sops must be created with a plan in mind. Must be concise and readable with sufficient depth without being overwhelming. Keep it on the general range of five to seven steps
 
