@@ -1,4 +1,4 @@
-## Ops Challenge:c Class 08
+## Ops Challenge: Class 08
 
 ![Screenshot 2021-09-14 at 19.58.11](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2008/Screenshot%202021-09-14%20at%2019.58.11.png?raw=true)
 
