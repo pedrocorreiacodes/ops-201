@@ -6,27 +6,27 @@
 
 Download and install Veeam.
 
-![Screenshot 2021-09-20 at 17.49.37](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-20 at 17.49.37.png)
+![Screenshot 2021-09-20 at 17.49.37](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-20%20at%2017.49.37.png)
 
 
 
 Performing a file level backup of personal files to the same drive in a different part of it. In a 'real world' scenario the backup should be done into another resource.
 
-![Screenshot 2021-09-21 at 16.01.55](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 16.01.55.png)
+![Screenshot 2021-09-21 at 16.01.55](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2016.01.55.png)
 
-![Screenshot 2021-09-21 at 16.04.02](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 16.05.22.png)
+![Screenshot 2021-09-21 at 16.04.02](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2016.05.22.png)
 
-![Screenshot 2021-09-21 at 16.07.49](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 16.07.49.png)
+![Screenshot 2021-09-21 at 16.07.49](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2016.07.49.png)
 
  Restoring the deleted files:
 
-![Screenshot 2021-09-21 at 16.09.37](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 16.09.37.png)
+![Screenshot 2021-09-21 at 16.09.37](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2016.09.37.png)
 
-![Screenshot 2021-09-21 at 16.08.58](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 16.08.58.png)
+![Screenshot 2021-09-21 at 16.08.58](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2016.08.58.png)
 
 And the deleted *Test.txt* file is back on the desktop.
 
-![Screenshot 2021-09-21 at 16.11.14](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 16.11.14.png)
+![Screenshot 2021-09-21 at 16.11.14](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2016.11.14.png)
 
 System recovery operations are a fundamental skill to have when dealing with computer systems, they'll eventually malfunction and we have to be ready to deal with that. In all cases data backup is a priority, data is sacred, we most prevent data loss and implement data recovery tools anywhere possible.
 
@@ -44,17 +44,17 @@ In an increasing scale we'll have to make sure the infrastructure grows accordin
 
 Free space on host computer’s hard drive.
 
-![Screenshot 2021-09-21 at 18.08.25](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 18.08.25.png)
+![Screenshot 2021-09-21 at 18.08.25](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2018.08.25.png)
 
 Clone of the Windows 10 VM. 
 
-![Screenshot 2021-09-21 at 18.26.55](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 18.26.55.png)
+![Screenshot 2021-09-21 at 18.26.55](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2018.26.55.png)
 
 A full clone is an independent copy of a virtual machine that shares nothing with the parent virtual machine after the cloning operation.
 
 A linked clone is a copy of a virtual machine that shares virtual disks with the parent virtual machine in an ongoing manner.
 
-![Screenshot 2021-09-21 at 18.32.55](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 18.32.55.png)
+![Screenshot 2021-09-21 at 18.32.55](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2018.32.55.png)
 
 With *Current machine state*, the new machine will have no snaptshots.
 
@@ -62,15 +62,15 @@ With Current machine state, the new machine will reflect the current state of th
 
 Cloning.
 
-![Screenshot 2021-09-21 at 18.35.16](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 18.35.16.png)
+![Screenshot 2021-09-21 at 18.35.16](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2018.35.16.png)
 
 This feature is usefull to create scenarios with multiple VM's sharing the same initial setup.
 
 Logs for the startup and shutting down of the VM.
 
-![Screenshot 2021-09-21 at 18.55.29](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 18.55.29.png)
+![Screenshot 2021-09-21 at 18.55.29](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2018.55.29.png)
 
-![Screenshot 2021-09-21 at 19.04.11](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 10/Screenshot 2021-09-21 at 19.04.11.png)
+![Screenshot 2021-09-21 at 19.04.11](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2010/Screenshot%202021-09-21%20at%2019.04.11.png)
 
 Generally speaking logs are usefull to maintain a debug a program. With logs we can assert where something went wrong, usually that's the frist step to solve an issue.
 
