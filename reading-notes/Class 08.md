@@ -8,9 +8,7 @@
 
 ------
 
-The Windows Registry is a collection of
-
- several databases where Windows and many programs store their configuration settings.
+The Windows Registry is a collection of several databases where Windows and many programs store their configuration settings.
 
 Thre are system-wide registry settings that apply to all users, and each Windows user account also has its own user-specific settings.
 
