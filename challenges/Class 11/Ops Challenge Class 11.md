@@ -10,7 +10,7 @@
 
 ![Screenshot 2021-09-22 at 19.34.57](https://github.com/pedrocorreiacodes/Ops-201/blob/master/challenges/Class%2011/screenshots/Screenshot%202021-09-22%20at%2019.34.57.png)
 
-![Screenshot 2021-09-22 at 19.56.12](/Users/baphomet/Library/Application Support/typora-user-images/Screenshot 2021-09-22 at 19.56.12.png)
+![Screenshot 2021-09-22 at 19.56.12](https://github.com/pedrocorreiacodes/Ops-201/blob/master/challenges/Class%2011/screenshots/Screenshot%202021-09-22%20at%2019.56.12.png)
 
 #### Allow ICMP traffic
 
