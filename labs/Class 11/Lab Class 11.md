@@ -68,7 +68,7 @@ After booting into Windows 10 we logged in to admin opened the command line as a
 
 `sfc /scannow` to scan all protected system files and replace them with a copy.
 
-![Screenshot 2021-09-23 at 19.33.32](/Users/baphomet/codefellows/learning/Ops-201/screenshots/Lab 11/Screenshot 2021-09-23 at 19.33.32.png)
+![Screenshot 2021-09-23 at 19.33.32](https://github.com/pedrocorreiacodes/Ops-201/blob/master/screenshots/Lab%2011/Screenshot%202021-09-23%20at%2019.33.32.png)
 
 Finanlly we run the command `dism /online /cleanup-image /restorehealth` to restore potential issues within the windows. The `/online` flag refers to the OS currently running on the machine.
 
