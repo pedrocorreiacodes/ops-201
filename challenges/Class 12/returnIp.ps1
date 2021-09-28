@@ -3,8 +3,9 @@
 #Remove the network_report.txt when you are finished searching it.
 
 Function GetIP {
-  ipconfig /all > "network_report.txt"
-  select-String -Path "network_report.txt" -Pattern "IPv4 Address"
+  $fileName = "network_report.txt"
+  ipconfig /all > $fileName
+  select-String -Path $fileName -Pattern "IPv4 Address"
   rm "network_report.txt
 }
 
