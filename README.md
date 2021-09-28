@@ -1,6 +1,6 @@
 # Ops-201
 
-## Personal student repo for Ops-201 for Pedro Correia
+## Personal student repo for Ops-201
 
 ------
 
