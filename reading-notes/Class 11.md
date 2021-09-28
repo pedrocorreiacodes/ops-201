@@ -77,8 +77,6 @@ DBAN recommends using the **dodshort** command.
 
 Interactive mode lets you customize exactly how DBAN will erase files, as well as which hard drives it will wipe. You can get to this screen with the **ENTER** key from DBAN's main menu.
 
-d
-
 #### Intro
 
 ------
