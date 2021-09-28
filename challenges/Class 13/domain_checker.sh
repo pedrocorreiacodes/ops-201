@@ -39,6 +39,7 @@ ask_to_repeat () {
         ;;
 
    *) echo "Please type (y) or (n)"
+       bring_menu
         ;;
 esac
 }
