@@ -24,9 +24,9 @@ You can configure your email by using IMAP. However, if you use IMAP you can onl
 
 To **Set up OneDrive** simply open the application from the start menu since is automatically available and ready to use in Windows 10, and enter the email address you want to syncronize it with.
 
-![Screenshot 2021-10-04 at 18.29.11](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot 2021-10-04 at 18.29.11.png)
+![Screenshot 2021-10-04 at 18.29.11](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot%202021-10-04%20at%2018.29.11.png)
 
-![Screenshot 2021-10-04 at 18.32.17](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot 2021-10-04 at 18.32.17.png)
+![Screenshot 2021-10-04 at 18.32.17](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot%202021-10-04%20at%2018.32.17.png)
 
 **Qumolo Engineers** requirements.
 
@@ -44,15 +44,15 @@ Use a third party backup software like **[VEEAM](https://www.veeam.com/backup-re
 
 Create a disk partion to store the backups.
 
-![Screenshot 2021-10-04 at 18.49.23](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot 2021-10-04 at 18.49.23.png)
+![Screenshot 2021-10-04 at 18.49.23](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot%202021-10-04%20at%2018.49.23.png)
 
 Setup backup to the recent created drive:
 
-![Screenshot 2021-10-04 at 18.56.07](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot 2021-10-04 at 18.56.07.png)
+![Screenshot 2021-10-04 at 18.56.07](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot%202021-10-04%20at%2018.56.07.png)
 
 Select how often do you want to back up:
 
-![Screenshot 2021-10-04 at 18.58.29](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot 2021-10-04 at 18.58.29.png)
+![Screenshot 2021-10-04 at 18.58.29](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-a-sales-computer/screenshots/Screenshot%202021-10-04%20at%2018.58.29.png)
 
 Note that this solution doesn't scale very well, you should go with backup jobs in VEEAM to suite a large company.
 
