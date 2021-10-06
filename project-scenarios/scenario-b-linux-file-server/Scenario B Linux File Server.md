@@ -14,7 +14,7 @@ Windows 10 systems:
 
 Download and Install [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) desktop clients in the Windows 10 VM's:
 
-![Screenshot 2021-10-06 at 13.05.13](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 13.05.13.png)
+![Screenshot 2021-10-06 at 13.05.13](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2013.05.13.png)
 
 To configure a **Gmail** account enter account, password and name and if auto-configure fails enter the following settings:
 
@@ -29,7 +29,7 @@ To configure a **Gmail** account enter account, password and name and if auto-co
 
 Create a VM running Ubuntu Server:
 
-![Screenshot 2021-10-06 at 14.08.32](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 14.08.32.png)
+![Screenshot 2021-10-06 at 14.08.32](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2014.08.32.png)
 
 Setup a Samba file server on the Ubuntu machine:
 
@@ -40,7 +40,7 @@ sudo apt install samba
 
 Create a new directory to share:
 
-![Screenshot 2021-10-06 at 15.49.42](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 15.49.42.png)
+![Screenshot 2021-10-06 at 15.49.42](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2015.49.42.png)
 
 Configure Samba via the configuration file:
 
@@ -48,7 +48,7 @@ Configure Samba via the configuration file:
 
 Adding these lines at the end:
 
-![Screenshot 2021-10-06 at 16.03.28](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 16.03.28.png)
+![Screenshot 2021-10-06 at 16.03.28](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2016.03.28.png)
 
 Restart Samba:
 
@@ -64,18 +64,18 @@ Setup a Samba password for the current user:
 
 On the windows VM map a new drive to the newly created server folder:
 
-![Screenshot 2021-10-06 at 17.38.54](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 17.38.54.png)
+![Screenshot 2021-10-06 at 17.38.54](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2017.38.54.png)
 
 Altenativly use the GUI to map the drive using the same IP, name and password by left clicking `This PC -> Map network drive`:
 
-![Screenshot 2021-10-06 at 17.40.19](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 17.40.19.png)
+![Screenshot 2021-10-06 at 17.40.19](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2017.40.19.png)
 
 Creating a Microsoft Windows Server 2016 Base with Containers instance in AWS EC2:
 
 + Login in the Amazon EC2 console
 + Choose **Launch Instance**
 + Select the **Amazon Machine Image (AMI)**:
-  +  ![Screenshot 2021-10-06 at 18.02.09](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 18.02.09.png)
+  +  ![Screenshot 2021-10-06 at 18.02.09](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2018.02.09.png)
 + Choose and Instance Type (for prototyping purposes go witth *free tier eligible*)
 + Configure Intance details
 + Add storage
@@ -95,15 +95,15 @@ To allow RDP access via GUI, admins can use the **Remote Desktop Connection** ap
 
 Use a third party backup software like **[VEEAM](https://www.veeam.com/backup-replication-virtual-physical-cloud.html?st=adwordspaidsearch&utm_source=google&utm_medium=cpc&utm_campaign=01BR-VAS_SEMEA_EN_IBE_Paid-Search_Trial_Branded-General&utm_content=cid|162455415_ntw|g_adgr|81735547617_creative|396631306231_ext|_adposition|_locph|1011721_dev|c_devm|_placement|_gclid|CjwKCAjwzOqKBhAWEiwArQGwaOI_J94n2FJ_uN2xc-4N52tMfhN6NbRGbQnzOA8O8b_KRF0JwPeQJBoCwXsQAvD_BwE_keyword|veam_matchtype|e_trgt|&gclid=CjwKCAjwzOqKBhAWEiwArQGwaOI_J94n2FJ_uN2xc-4N52tMfhN6NbRGbQnzOA8O8b_KRF0JwPeQJBoCwXsQAvD_BwE)**. Alternatively use windows built in **Backup and Restore** application.
 
-![Screenshot 2021-10-06 at 18.38.29](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 18.38.29.png)
+![Screenshot 2021-10-06 at 18.38.29](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2018.38.29.png)
 
 Select `Let me choose`to configure the backup:
 
-![Screenshot 2021-10-06 at 18.41.55](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 18.41.55.png)
+![Screenshot 2021-10-06 at 18.41.55](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2018.41.55.png)
 
 Select `backup settings`and `schedule`accordingly:
 
-![Screenshot 2021-10-06 at 18.44.13](/Users/baphomet/codefellows/learning/Ops-201/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot 2021-10-06 at 18.44.13.png)
+![Screenshot 2021-10-06 at 18.44.13](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2018.44.13.png)
 
 Note that this solution doesn't scale very well, you should go with backup jobs in VEEAM to suite a large company.
 
