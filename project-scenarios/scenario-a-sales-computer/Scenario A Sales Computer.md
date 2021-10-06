@@ -40,7 +40,7 @@ You can run the simple `install.sh`script (located on this folder).
 
 ------
 
-Use a third party backup software like **[VEEAM](https://www.veeam.com/backup-replication-virtual-physical-cloud.html?st=adwordspaidsearch&utm_source=google&utm_medium=cpc&utm_campaign=01BR-VAS_SEMEA_EN_IBE_Paid-Search_Trial_Branded-General&utm_content=cid|162455415_ntw|g_adgr|81735547617_creative|396631306231_ext|_adposition|_locph|1011721_dev|c_devm|_placement|_gclid|CjwKCAjwzOqKBhAWEiwArQGwaOI_J94n2FJ_uN2xc-4N52tMfhN6NbRGbQnzOA8O8b_KRF0JwPeQJBoCwXsQAvD_BwE_keyword|veam_matchtype|e_trgt|&gclid=CjwKCAjwzOqKBhAWEiwArQGwaOI_J94n2FJ_uN2xc-4N52tMfhN6NbRGbQnzOA8O8b_KRF0JwPeQJBoCwXsQAvD_BwE)**. S
+Use a third party backup software like **[VEEAM](https://www.veeam.com/backup-replication-virtual-physical-cloud.html?st=adwordspaidsearch&utm_source=google&utm_medium=cpc&utm_campaign=01BR-VAS_SEMEA_EN_IBE_Paid-Search_Trial_Branded-General&utm_content=cid|162455415_ntw|g_adgr|81735547617_creative|396631306231_ext|_adposition|_locph|1011721_dev|c_devm|_placement|_gclid|CjwKCAjwzOqKBhAWEiwArQGwaOI_J94n2FJ_uN2xc-4N52tMfhN6NbRGbQnzOA8O8b_KRF0JwPeQJBoCwXsQAvD_BwE_keyword|veam_matchtype|e_trgt|&gclid=CjwKCAjwzOqKBhAWEiwArQGwaOI_J94n2FJ_uN2xc-4N52tMfhN6NbRGbQnzOA8O8b_KRF0JwPeQJBoCwXsQAvD_BwE)**. Alternatively use windows built in backup application.
 
 Create a disk partion to store the backups.
 
