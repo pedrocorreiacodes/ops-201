@@ -21,3 +21,4 @@ This course covers the fundamentals in computer operations, from hardware to sof
 + `labs` folder holds labs solution with embedded screenshots.
 + `reading-notes` folder holds reading notes for each class and also the reading assignments for each class.
 + `screen-shots` folder hosts screenshots for `labs` documents.
++ `project-scenarios`folder hold some references for the purposed final project scenarios to the students.
