@@ -66,7 +66,7 @@ On the windows VM map a new drive to the newly created server folder:
 
 ![Screenshot 2021-10-06 at 17.38.54](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2017.38.54.png)
 
-Altenativly use the GUI to map the drive using the same IP, name and password by left clicking `This PC -> Map network drive`:
+Altenativly use the GUI to map the drive using the same IP, name and password by right clicking `This PC -> Map network drive`:
 
 ![Screenshot 2021-10-06 at 17.40.19](https://github.com/pedrocorreiacodes/Ops-201/blob/master/project-scenarios/scenario-b-linux-file-server/screenshots/Screenshot%202021-10-06%20at%2017.40.19.png)
 
